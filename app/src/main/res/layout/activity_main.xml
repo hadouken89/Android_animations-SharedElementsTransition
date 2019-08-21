@@ -7,7 +7,8 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/image_activity_1"
+        android:transitionName="transition_image_wolf"
         android:layout_width="152dp"
         android:layout_height="122dp"
         android:layout_marginStart="8dp"
